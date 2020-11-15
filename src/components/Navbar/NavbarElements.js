@@ -63,7 +63,7 @@ export const NavMenu = styled.ul`
   text-align: center;
   margin-right: -22px;
   font-family: "Arial";
-  font-size: 1rem;
+  font-size: 0.9rem;
 
   @media screen and (max-width: 768px) {
     display: none;

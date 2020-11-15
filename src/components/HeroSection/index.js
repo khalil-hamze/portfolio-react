@@ -5,9 +5,7 @@ import { HeroContainer, HeroBg, PictureBg } from "./HeroElements";
 const HeroSection = () => {
   return (
     <HeroContainer>
-      <HeroBg>
-        <PictureBg src={Picture} />
-      </HeroBg>
+      <HeroBg>{/* <PictureBg src={Picture} /> */}</HeroBg>
     </HeroContainer>
   );
 };
